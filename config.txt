@@ -1,6 +1,6 @@
-token=NTIyOTUwMTA3NDQwODczNDcy.DyozvQ.qrTKPon-mDDqKf1zgSBJAT8QC5U
+token= NTIxNTk5Njk0MTAzNjQyMTEz.Xjs2mA.zqNj9PaQTQCf5zjOS5AY0HKRkeQ
 owner=  560436523246551040
-prefix=3
-game= 3Help | 3Play
+prefix=bitch 
+game= bitch Help | bitch Play
 stayinchannel=true
 songinstatus=true
